@@ -42,6 +42,12 @@ This project focuses on classifying music genres using both traditional Machine 
 | RandomForestClassifier  | 84.19%       |
 | ...                    | ...          |
 
+### 📈 Accuracy Comparison
+
+![Model Accuracy Comparison](model_comparison.png)
+
+---
+
 > 📌 Conclusion: Deep learning and tree-based ensemble models (like XGBoost, RF) perform best on complex audio features.
 ---
 ## 📌 Key Features
