@@ -54,5 +54,5 @@ This project focuses on classifying music genres using both traditional Machine 
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/music-genre-classification.git
+   git clone https://github.com/Theepankumargandhi/music-genre-classification.git
  
