@@ -23,6 +23,8 @@ This project focuses on classifying music genres using both traditional Machine 
 - AdaBoostClassifier
 - LogisticRegression
 - SVC
+
+
 ---
 ### ✅ Deep Learning Model (Keras Sequential):
 - Dense layers with ReLU activations
