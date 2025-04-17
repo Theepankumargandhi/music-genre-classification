@@ -9,7 +9,7 @@ This project focuses on classifying music genres using both traditional Machine 
   - `.wav` audio files across 10 genres
   - Mel Spectrograms
   - Extracted features saved as CSV
-
+---
 ## 🧠 Models Used
 
 ### ✅ Traditional ML Models:
@@ -23,12 +23,12 @@ This project focuses on classifying music genres using both traditional Machine 
 - AdaBoostClassifier
 - LogisticRegression
 - SVC
-
+---
 ### ✅ Deep Learning Model (Keras Sequential):
 - Dense layers with ReLU activations
 - BatchNormalization & Dropout
 - Final Softmax output layer for 10 genres
-
+---
 ## 📊 Results
 
 | Model                   | Accuracy     |
@@ -41,16 +41,16 @@ This project focuses on classifying music genres using both traditional Machine 
 | ...                    | ...          |
 
 > 📌 Conclusion: Deep learning and tree-based ensemble models (like XGBoost, RF) perform best on complex audio features.
-
+---
 ## 📌 Key Features
 
 - Mel spectrogram visualization using `librosa`
 - Model performance comparison using `matplotlib`
 - Clean and modular code for training and evaluation
-
+---
 ## 🚀 How to Run
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/music-genre-classification.git
-``` 
+ 
